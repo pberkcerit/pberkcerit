@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Course Project**
 
-- 🌱 I’m currently learning **MEAN Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **Angular, C#, MSSQL Server**
+- 💬 Ask me about **React JS, C#, MSSQL Server**
 
 - 📫 How to reach me **dev.berkcerit@gmail.com**
 
